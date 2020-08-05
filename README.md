@@ -11,7 +11,7 @@ There are more complex, sophisticated tools for this process. For example:
 - https://coinwink.com/eth
 - www.teamfox.co/mammon 
 
-However, none of these allow for you to host and run your own notification. This allows for all of the customization you with to build. Your flexibility is endless. If you want someone else to see the notifications you set, or simply manage them, go with the other options. If you want to own the process and customize it, use this open source program!
+However, none of these allow for you to host and run your own notification. This allows for all of the customization you want to build. Your flexibility is endless. If you want someone else to see the notifications you set, or simply manage them, go with the other options. If you want to own the process and customize it, use this open source program!
 
 ## How do I use it?
 ### This requires that you have:
