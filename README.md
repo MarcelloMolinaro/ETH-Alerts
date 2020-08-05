@@ -1,4 +1,4 @@
-# Ethereum_Web_Scraping_Twilio_Integration
+# ETH Alerts
 A program that scrapes Ethereum price website and sends a text alert depending on how the price has changed since the previous time the program ran.
 
 ## Who is this for?
@@ -29,7 +29,18 @@ my_phone_number <- ?,
 twilios_phone_number <- ? `  
 
 ### Run the Program
-
+1) Clone the repository
+2) Open `ETH Price Alerts- For Public.R`
+3) Get your Twilio credentials
+4) Save them to your `save_credentials.RData` file
+  - Instructions in the main file
+5) Run the Program
+  - You will see "Previous Price" and "Today's Price" printed, and if the rpice change falls into the defined logic, you will recieve a text notification
+6) Customize your program!
+  - Connect this to other currencies
+  - Modify the logic for the price changes
+  - Send notifcations to others
+  - etc.
 
 ## How does it work?
 - Using packages Rvest and xml2, the program scrapes data from https://cointelegraph.com/ethereum-price-index. 
